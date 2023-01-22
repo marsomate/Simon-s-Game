@@ -44,11 +44,8 @@ body {
 }
 
 .yellow {
-  background-image: url("images/yellow.jpg");
-  width: 200px;
-  height: 200px;
+  background-color: yellow;
 }
-
 
 .pressed {
   box-shadow: 0 0 20px white;
